@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #54414E;
+    background-color: ;
     color: black;
     margin: 0;
     padding: 0;
@@ -13,7 +13,7 @@ body {
 nav{
     position: sticky;
     top: 0;
-    background-color:rgb(123, 23, 195);
+    background-color:#54414E;
     padding: 10px 0;
 }
 nav h1 {
@@ -72,7 +72,7 @@ section h3 {
     color: maroon;
 }
 #contact {
-    background-color: rgb(156, 137, 189);
+    background-color: #B7C8B5;
     padding: 40px 0;
     text-align: center;
 }
